@@ -1,5 +1,6 @@
 class Solution {
 public:
+//Priyanshu
     int reverse(int x) {
         int res=0;
         while(x!=0){
